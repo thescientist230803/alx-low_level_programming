@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
- * printf- prints outcoe is a piece of art
- * return - return 0 if exited properlynon zero otherwise
+ * main - prints the line with proper grammar,
+ * but the outcome is a piece of art,
+ * Return: 0 if exited properly, non_zero otherwise
  */
 int main(void)
 {
