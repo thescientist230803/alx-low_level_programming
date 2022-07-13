@@ -1,9 +1,7 @@
 #include "main.h"
 
 /**
- * @brief
- *
- */
+ * _strcat - concatenates two strings
  * @dest: string to append to
  * @src: string to add
  *
